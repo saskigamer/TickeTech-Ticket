@@ -1,40 +1,40 @@
 # Setup Embed
 Setup:
-  Description: 'Ticket System Created By DevXor Team'
-  AuthorName: 'DevXor Team'
+  Description: 'Ticket System Created By XyMeD Team'
+  AuthorName: 'XyMeD Team'
   AuthorURL: 'https://i.imgur.com/ed2JeXN.png'
   Thumbnail: 'https://i.imgur.com/ed2JeXN.png'
   Color: '#FF7631'
-  Image: 'https://i.imgur.com/k9pdpHo.png'
+  Image: 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Title: 'Ticket System'
 
 # Help Embed
 HelpCommand:
-  AuthorName: 'DevXor Team'
-  AuthorURL: 'https://i.imgur.com/ed2JeXN.png'
-  Thumbnail: 'https://i.imgur.com/ed2JeXN.png'
+  AuthorName: 'XyMeD Team'
+  AuthorURL: 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
+  Thumbnail: 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Color: '#FF7631'
-  Image: 'https://i.imgur.com/k9pdpHo.png'
+  Image: 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Title: 'Help'
 
 # Finish Setup
 SetComplete:
   Description: '✅ Ticket System is Ready !'
-  AuthorName: 'DevXor Team'
-  AuthorURL : 'https://i.imgur.com/ed2JeXN.png'
-  Thumbnail : 'https://i.imgur.com/ed2JeXN.png'
+  AuthorName: 'XyMeD Team'
+  AuthorURL : 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
+  Thumbnail : 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Color: '#FF7631'
-  Image: 'https://i.imgur.com/k9pdpHo.png'
+  Image: 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Title: 'Ticket System'
 
 # Ticket Opening
 TicketSystem:
   Description: 'Click 📩 to open ticket'
-  AuthorName: 'DevXor Team'
-  AuthorURL : 'https://i.imgur.com/ed2JeXN.png'
-  Thumbnail : 'https://i.imgur.com/ed2JeXN.png'
+  AuthorName: 'XyMeD Team'
+  AuthorURL : 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
+  Thumbnail : 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Color: '#FF7631'
-  Image: 'https://i.imgur.com/k9pdpHo.png'
+  Image: 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Title: 'Ticket System'
 
 # Modal Question
@@ -48,11 +48,11 @@ TicketOpn:
   Description: 'Hi [User] , Wait Comming Support in ticket for talking you. 
   
    **Reason: [Reason]**'
-  AuthorName: 'DevXor Team'
-  AuthorURL : 'https://i.imgur.com/ed2JeXN.png'
-  Thumbnail : 'https://i.imgur.com/ed2JeXN.png'
+  AuthorName: 'XyMeD Team'
+  AuthorURL : 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
+  Thumbnail : 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Color: '#FF7631'
-  Image: 'https://i.imgur.com/k9pdpHo.png'
+  Image: 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Title: 'Ticket System'
 
 # List Support Embed
@@ -80,7 +80,7 @@ RemoveUser:
 TicketClosed:
   Title: 'Ticket Closed !'
   Description: 'Your ticket has been closed.'
-  Image: 'https://i.imgur.com/ZK7TNge.png'
+  Image: 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Color: '#FF7631'
   Fields1: 'Opened By :'
   Fields2: 'Claimed By :'
@@ -92,13 +92,13 @@ Transcript:
   Title: "Transcript Created"
   Description: "The transcript has been successfully created. You can download it or view it online."
   Color: "#FF7631"
-  Image: "https://i.imgur.com/ZK7TNge.png"
+  Image: "https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png"
 
 # Embed Delete Ticjet
 TicketDelete:
   Title: 'Ticket Closed !'
   Color: '#FF7631'
-  Image: 'https://i.imgur.com/ZK7TNge.png'
+  Image: 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   Fields1: 'Opened By :'
   Fields2: 'Claimed By :'
   Fields3: 'Ticket ID :'
@@ -110,7 +110,7 @@ TicketStatus:
   OColor: '#FF7631'
   ODescription: '**/ Opened By :**'
   OODescription: '**No open tickets.**'
-  OThumbnail: 'https://i.imgur.com/ed2JeXN.png'
+  OThumbnail: 'https://e7.pngegg.com/pngimages/830/518/png-clipart-customer-service-customer-support-technical-support-help-desk-customer-service-representative-service-public-relations.png'
   OImage: null #'https://i.imgur.com/k9pdpHo.png'
   CTitle: 'Closed Tickets'
   CColor: '#FF7631'
